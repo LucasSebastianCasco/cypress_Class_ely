@@ -1,0 +1,26 @@
+{
+  "name": "clases-ely",
+  "version": "18",
+  "description": "clases Ely",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasSebastianCasco/cypress_Class_ely.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "LucasCasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasSebastianCasco/cypress_Class_ely/issues"
+  },
+  "homepage": "https://github.com/LucasSebastianCasco/cypress_Class_ely#readme",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress": "12.7.0"
+  }
+}

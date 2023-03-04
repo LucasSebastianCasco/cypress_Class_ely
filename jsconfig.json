@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"target": "ES2022",
+		"moduleResolution": "node",
+		"types": ["node", "cypress"],
+		"baseUrl": ".",
+		"paths": {
+			"@pages/*": ["./cypress/e2e/Pages/*"],
+			"@helper/*": ["./cypress/e2e/helper/*"]
+		}
+	},
+
+	"exclude": ["node_modules"]
+}
